@@ -7,8 +7,17 @@ public class Calculator {
         System.out.println("Inside Add method");
 
     }
+
     public void Subtract() {
-        System.out.println("Inside subtract method");
-        
+        System.out.println("Inside Subtract method");
+
+    }
+
+    public void Multiply() {
+        System.out.println("Inside Multiply method");
+    }
+
+    public void Divide() {
+        System.out.println("Inside Divide method");
     }
 }

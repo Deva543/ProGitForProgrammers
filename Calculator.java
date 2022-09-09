@@ -5,12 +5,10 @@ public class Calculator {
 
     public void Add() {
         System.out.println("Inside Add method");
-
     }
 
     public void Subtract() {
         System.out.println("Inside Subtract method");
-
     }
 
     public void Multiply() {
